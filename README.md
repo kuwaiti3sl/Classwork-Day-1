@@ -1,4 +1,4 @@
-Day 1 classwork
+1Day 1 classwork
 
 1 - Create an HTML called Index.html
 
